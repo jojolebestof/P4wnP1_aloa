@@ -106,7 +106,7 @@ The webclient has capabilities, which couldn't be accessed from the CLI (templat
 The core features:
 - should work on most major mobile and desktop browsers, with consistent look and feel (Quasar Framework)
 - uses gRPC via websockets (no RESTful API, no XHR, nearly same approach as CLI)
-- Thanks to this interface, the weblient does not rely on a request&reply scheme only, but receives "push events" from 
+- Thanks to this interface, the webclient does not rely on a request&reply scheme only, but receives "push events" from 
 the P4wnP1 core. This means:
   - if you (or a script) changes the state of P4wnP1 A.L.O.A. these changes will be immediately reflected into the 
   webclient
