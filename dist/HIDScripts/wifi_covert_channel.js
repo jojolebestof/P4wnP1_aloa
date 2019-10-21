@@ -6,7 +6,7 @@ This isn't a stand-alone HIDScript. It is meant to be used as part of the Master
 in order to met all the dependencies.
 
 Two options could be changed in this script:
-1) The keyboard language to type out the iniial stage
+1) The keyboard language to type out the initial stage
 2) The hide option. If disabled the powershell window on the target host isn't hidden, to allow
 easy debugging.
 
